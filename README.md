@@ -1,1 +1,1 @@
-# Reposit-rio-de-Estudo-de-Redes-Neurais
+# Repositório de Estudo sobre Redes-Neurais
